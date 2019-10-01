@@ -54,7 +54,6 @@ class Students extends Model
         'name' => 'required',
         'email' => 'required',
         'contact_number' => 'required',
-        'profile_image' => 'required'
     ];
 
     
